@@ -1,4 +1,4 @@
-# Minecraft Exporter for Prometheus
+# NGINX INFO
 
 ![Version: 11.1.5](https://img.shields.io/badge/Version-11.1.5-informational?style=for-the-badge)
 
