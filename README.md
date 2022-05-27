@@ -4,17 +4,23 @@
 
 ![AppVersion: 1.21.6](https://img.shields.io/badge/AppVersion-1.21.6-informational?style=for-the-badge)
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=Minecraft&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Alpine Linux 3.15.0](https://img.shields.io/badge/alpine_linux_3.15.0-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
-
 ## Description
 
 NGINX Open Source is a web server that can be also used as a reverse proxy, load balancer, and HTTP cache. Recommended for high-demanding sites due to its ability to provide faster content.
 
 ## Usage
 <fill out>
+
+## Source Code
+
+* <https://github.com/bitnami/bitnami-docker-nginx>
+* <https://www.nginx.org>
+
+## Maintainers
+
+| Name | Email | Url |
+| ---- | ------ | --- |
+| Bitnami | <containers@bitnami.com> |  |
 
 ## Values
 
@@ -206,13 +212,3 @@ NGINX Open Source is a web server that can be also used as a reverse proxy, load
 
 **Homepage:** <https://github.com/bitnami/charts/tree/master/bitnami/nginx>
 
-## Source Code
-
-* <https://github.com/bitnami/bitnami-docker-nginx>
-* <https://www.nginx.org>
-
-## Maintainers
-
-| Name | Email | Url |
-| ---- | ------ | --- |
-| Bitnami | <containers@bitnami.com> |  |
