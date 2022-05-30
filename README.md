@@ -6,7 +6,7 @@
 
 ## Description
 
-NGINX Open Source is a web server that can be also used as a reverse proxy, load balancer, and HTTP cache. Recommended for high-demanding sites due to its ability to provide faster content. aaaaaaaaaaa
+NGINX Open Source is a web server that can be also used as a reverse proxy, load balancer, and HTTP cache. Recommended for high-demanding sites due to its ability to provide faster content.
 
 ## Usage
 <fill out>
@@ -27,7 +27,7 @@ NGINX Open Source is a web server that can be also used as a reverse proxy, load
 | Key | Type | Default | Description |
 |-----|------|---------|-------------|
 | affinity | object | `{}` | Aca va la descripcion  |
-| args | list | `[]` | Aca va una descripcion  |
+| args | list | `[]` | Aca va una descripcion. |
 | autoscaling.enabled | bool | `false` |  |
 | autoscaling.maxReplicas | string | `""` |  |
 | autoscaling.minReplicas | string | `""` |  |
@@ -216,7 +216,7 @@ NGINX Open Source is a web server that can be also used as a reverse proxy, load
 
 ![Version: 11.1.5](https://img.shields.io/badge/Version-11.1.5-informational?style=flat-square) ![AppVersion: 1.21.6](https://img.shields.io/badge/AppVersion-1.21.6-informational?style=flat-square)
 
-NGINX Open Source is a web server that can be also used as a reverse proxy, load balancer, and HTTP cache. Recommended for high-demanding sites due to its ability to provide faster content. aaaaaaaaaaa
+NGINX Open Source is a web server that can be also used as a reverse proxy, load balancer, and HTTP cache. Recommended for high-demanding sites due to its ability to provide faster content.
 
 **Homepage:** <https://github.com/bitnami/charts/tree/master/bitnami/nginx>
 
@@ -242,7 +242,7 @@ NGINX Open Source is a web server that can be also used as a reverse proxy, load
 | Key | Type | Default | Description |
 |-----|------|---------|-------------|
 | affinity | object | `{}` | Aca va la descripcion  |
-| args | list | `[]` | Aca va una descripcion  |
+| args | list | `[]` | Aca va una descripcion. |
 | autoscaling.enabled | bool | `false` |  |
 | autoscaling.maxReplicas | string | `""` |  |
 | autoscaling.minReplicas | string | `""` |  |
