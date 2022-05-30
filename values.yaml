@@ -97,7 +97,7 @@ hostAliases: []
 ##
 command: []
 
-# -- Aca va una descripcion.
+# -- Aca va una descripcion 1F.
 args: []
 ## @param extraEnvVars Extra environment variables to be set on NGINX containers
 ## E.g:

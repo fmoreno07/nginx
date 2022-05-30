@@ -28,7 +28,7 @@ NGINX Open Source is a web server that can be also used as a reverse proxy, load
 | Key | Type | Default | Description |
 |-----|------|---------|-------------|
 | affinity | object | `{}` | Aca va la descripcion  |
-| args | list | `[]` | Aca va una descripcion. |
+| args | list | `[]` | Aca va una descripcion 1F. |
 | autoscaling.enabled | bool | `false` |  |
 | autoscaling.maxReplicas | string | `""` |  |
 | autoscaling.minReplicas | string | `""` |  |
